@@ -1,6 +1,0 @@
-pembagian:
-
-farras: home + login + package
-nadja: home + login + package
-ryan: home + login + package
-hasbi: home + login + package
